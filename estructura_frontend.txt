@@ -1,0 +1,2 @@
+Frontend en ReactJS
+Componentes para listado, dashboard, hojas de vida, gráficos

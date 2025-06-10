@@ -1,0 +1,3 @@
+Backend en Python (FastAPI/Django)
+Base de datos PostgreSQL
+Endpoints para equipos, confirmaciones, certificados, usuarios
